@@ -1,4 +1,4 @@
-# senior_capstone
+# COVID-19 Sentiment Analysis
 
 Nowadays, people use social media to express their feelings and thoughts regarding different topics. During the COVID-19 pandemic, people have been very active in social media, sharing information, personal experiences, and emotions. Twitter is one of the social media platforms where people are very active. Sentiment Analysis of Tweets can provide really interesting insights about the public’s preferences and sentiments. In this research, I will determine whether the sentiment changes of people’s COVID-19 related Tweets align with significant developments in the COVID-19 timeline.
 
